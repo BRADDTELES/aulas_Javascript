@@ -9,3 +9,4 @@ console.log('Quebrar em array: ', mensagem1.split( ' '))
 
 console.log('UP: ', mensagem1.toUpperCase())
 console.log('DOWN: ', mensagem1.toLowerCase())
+console.log('Replace: ', mensagem2.replace('Carneiro', 'BraDD'))
